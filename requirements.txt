@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+numpy
+networkx
+osmnx
+contextily
